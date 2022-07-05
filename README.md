@@ -41,10 +41,10 @@ Se dejan aqui unos calculos financieros que pueden servir de ayuda:<br>
 
 Se dejan aqui unos ejemplos para la parte grafica:<br>
 
-![img1](/DS-PI_02/1655704802024.png)
-![img2](/DS-PI_02/1655704803889.png)
-![img3](/DS-PI_02/1655704805872.png)
-![img3](/DS-PI_02/1655971323111.png)
+![img1](1655704802024.png)
+![img2](1655704803889.png)
+![img3](1655704805872.png)
+![img3](1655971323111.png)
 
 
 
